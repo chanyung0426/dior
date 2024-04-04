@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'noto_sans';
+    src: url('../font/Noto_Sans/NotoSans-Regular.ttf') format('truetype');
+}
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+nav h2{
+    display: none;
+}
+button{
+    background: none;
+}
+.collection_wrap h2{
+    display: none;
+}
+.store_wrap > h2{
+    display: none;
+}
