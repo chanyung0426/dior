@@ -1,5 +1,6 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.4.3"
-  }
+  },
+  "homepage": "https://my-dior.netlify.app"
 }
