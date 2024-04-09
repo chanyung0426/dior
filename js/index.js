@@ -20,10 +20,10 @@ window.onload = () => {
       },
       768: {
         slidesPerView: 4,  //브라우저가 768보다 클 때
-        spaceBetween: 40,
+        spaceBetween: 30,
       },
-      1024: {
-        slidesPerView: 4,  //브라우저가 1024보다 클 때
+      1280: {
+        slidesPerView: 5,  //브라우저가 1024보다 클 때
         spaceBetween: 40,
       },
     },
